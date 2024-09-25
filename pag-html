@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="box.css" />
+  </head>
+  <body>
+<div class="til">
+    <h1>EJEMPLOS DE MODEL BOX</h1>
+</div>
+<div class="cont">
+    <div class="box">
+      Así que <br />
+      CORRE CORRE CORRE CORRE CORAZÓN <br />
+      De los dos tú siempre fuiste el más veloz <br />
+      Toma<br />
+      TODO LO QUE QUIERAS<br />
+      Pero vete ya<br /><br />
+
+      Que mis lágrimas JAMÁS TE VOY A DAR<br />
+      Asi que <br />
+      CORRE COMO SIEMPRE <br />
+      no mires atrás<br />
+      Lo has hecho ya<br />
+      Y la verdad me da igual<br />
+    </div>
+
+    <div class="puntos">
+        <h1>LIVE AND LEARN</h1>
+
+     <img src="img/sonic-adventure-sa2.gif" class="img"> 
+    </div>
+
+    <div class="bill">
+        <p class="lyr">
+            We'll Meet Again<br>
+            Don't Know Where don't<br> Know When<br>
+            Oh, I Know We'll Meet<br> Again Some Sunny Day.
+        </p>
+
+    </div> 
+</div>
+  </body>
+</html>
