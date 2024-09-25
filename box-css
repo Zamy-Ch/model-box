@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+
+.til{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: antiquewhite;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box {
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: aliceblue;
+    margin: 20px;
+    background-color: #292F36;
+    border: 10px solid #4ECDC4; 
+    padding: 20px;
+}
+.puntos {
+    width: 300px;
+    margin: 20px;
+    text-align: center;
+    font-family: fantasy;
+    color: #292F36;
+    background-color: #00F0B5;
+    border-style: dotted;
+    padding: 20px;
+    .img {
+        width: 300px;
+    }
+    
+}
+
+.bill{
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(img/HIYA.png); 
+    background-size: 500px;
+    background-repeat: no-repeat;
+    color: azure;
+    font-family: unset;
+    font-size: 20px;
+}
